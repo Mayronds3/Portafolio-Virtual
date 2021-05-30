@@ -1,0 +1,40 @@
+body{
+    background-image: url(../Imagenes/Background.jpg);
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(238, 255, 0);
+    font-size: 40px;
+
+}
+p1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    margin-top: 60px;
+    color: rgba(45, 218, 11, 0.877);
+    font-size: 30px;
+}
+p2{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.row1 img{
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.row2 img{
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+

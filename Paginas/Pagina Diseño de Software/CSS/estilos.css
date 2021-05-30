@@ -1,0 +1,31 @@
+body{
+    background-image: url(../Imagenes/Fondo5.jpg);
+}
+header{
+    background: rgba(163, 105, 17, 0.959);
+    height: 300px;
+    width: auto;
+}
+h1{
+    color: rgb(31, 52, 78);
+    font-size: 40px;
+    text-align: center;
+
+}
+p{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+
+}
+p1{
+    font-size: 30px;
+}
+h2{
+    margin-top: 60px;
+    color: rgb(32, 45, 160);
+    font-size: 30px;
+}
+
+
+
+
